@@ -1,5 +1,3 @@
-# clone-chromium
-Resultado usando CSS
 
 # Clone do ícone do Chromium
 
